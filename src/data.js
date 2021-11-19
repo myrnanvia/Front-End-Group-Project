@@ -27,16 +27,19 @@ export const categories = [
         id: 1,
         img: "https://i.ibb.co/6Z18zHV/smiling-beautiful-young-woman-pink-mini-dress-posing-studio-155003-14602.jpg",
         title: "DRESS",
+        cat: "dress",
     },
     {
         id: 2,
         img: "https://i.ibb.co/r43GHsc/young-beautiful-woman-looking-camera-trendy-girl-casual-summer-white-t-shirt-jeans-shorts-round-sung.jpg",
         title: "SHIRT",
+        cat: "shirt",
     },
     {
         id: 3,
         img: "https://i.ibb.co/mSSGpJL/excited-ginger-lady-hat-holding-straw-bag-ecstatic-long-haired-girl-summer-outfit-enjoying-good-day.jpg",
         title: "SKIRT",
+        cat: "skirt",
     }
 ]
 
